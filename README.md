@@ -8,6 +8,7 @@ Ejercicios de ejemplo para el TFM sobre autocorrección interactiva para la ense
 
 Este repositorio contiene algunos ejercicios básicos de programación junto a su autocorrección con Travis-CI
 
+- homework_00: Markdown
 - homework_01: Python
 - homework_02: Ruby
 - homework_03: C
@@ -15,8 +16,6 @@ Este repositorio contiene algunos ejercicios básicos de programación junto a s
 
 ### Autor: Ernesto Serrano Collado
 ### Tutora: Zoraida Callejas Carrión
-
-*Memoria y Presentación* liberada bajo la licencia **Creative Commons Attribution-ShareAlike 4.0 International**.
 
 *Código* liberado bajo licencia **GNU GENERAL PUBLIC LICENSE Version 3**.
 
